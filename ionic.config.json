@@ -1,7 +1,0 @@
-{
-  "name": "ecophoto",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
