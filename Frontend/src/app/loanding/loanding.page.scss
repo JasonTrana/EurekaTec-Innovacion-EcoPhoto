@@ -1,0 +1,26 @@
+*{
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ion-content {
+    --background: linear-gradient( #53d646 , #fffff5);
+}
+main{
+    margin-top: 50%;
+}
+
+.contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+@media screen and (min-width: 500px){
+    main{
+        margin-top: 10%;
+    }
+}
